@@ -11,7 +11,7 @@ email: joshuayi2004@gmail.com
 # baseurl: '/resume.io'
 domain: Joshua-R-Yi.github.io
 url: https://Joshua-R-Yi.github.io
-baseurl: Joshua-R-Yi
+#baseurl: 'resume_joshua'
 
 permalink: /:year/:month/:day/:title/
 
