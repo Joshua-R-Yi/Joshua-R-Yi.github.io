@@ -1,17 +1,17 @@
 # Site settings
 name: Joshua Yi
-location: Shanghai
-company: Shanghai American School
+location: Santa Clara
+company: Santa Clara University
 position: Student
 # github: https://github.com/Joshua-R-Yi
 facebook: https://www.facebook.com/joshua.yi.5015
-phone: +86 18964081004
+phone: +1 (669) 298 1618
 email: joshuayi2004@gmail.com
 
-# baseurl: '/resume.io'
-domain: Joshua-R-Yi.github.io
-url: https://Joshua-R-Yi.github.io
-#baseurl: 'resume_joshua'
+baseurl: '/resume.io'
+# domain: Joshua-R-Yi.github.io
+# url: https://Joshua-R-Yi.github.io
+# baseurl: 'resume_joshua'
 
 permalink: /:year/:month/:day/:title/
 
